@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.16.2](https://github.com/jeromefroe/lru-rs/tree/0.16.2) - 2025-10-14
+
+- Upgrade hashbrown dependency to 0.16.0.
+
 ## [v0.16.1](https://github.com/jeromefroe/lru-rs/tree/0.16.1) - 2025-09-08
 
 - Fix `Clone` for unbounded cache.
